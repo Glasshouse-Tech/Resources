@@ -1,3 +1,2 @@
-exhibit config textiles
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
 Video,https://gccmediastore.s3.ap-southeast-2.amazonaws.com/textiles.mp4,0:23:55,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
